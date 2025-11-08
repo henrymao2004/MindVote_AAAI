@@ -163,6 +163,3 @@ export DASHSCOPE_API_KEY="your-qwen-key"
 export HF_TOKEN="your-huggingface-token"
 ```
 
-## License
-
-Please refer to the dataset sources for their respective licenses.
