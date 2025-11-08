@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+openai>=1.6.0
+google-generativeai
+dashscope
+huggingface_hub
+anthropic
+transformers
+torch
+accelerate
+sentencepiece
